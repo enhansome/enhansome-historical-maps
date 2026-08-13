@@ -240,7 +240,7 @@
             "last_commit": "2026-04-16T14:44:49Z",
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2299
+            "stars": 2300
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1811
+            "stars": 1812
           }
         },
         {
@@ -347,7 +347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:58.547Z",
+    "last_updated": "2026-08-13T13:57:52.164Z",
     "original_repository": "stark1tty/awesome-historical-maps",
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
     "enhanced_repository": "enhansome/enhansome-historical-maps",
