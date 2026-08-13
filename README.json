@@ -1,0 +1,357 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Map Collections"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Military and Campaigns"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Asia"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Central Europe"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Eastern Europe"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Northern Europe"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "North America"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Military"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research Guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Map Warper",
+          "description": "Open source map geo-rectification, warping and georeferencing application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-31T13:10:26Z",
+            "owner": "timwaters",
+            "repo": "mapwarper",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MapReader",
+          "description": "End-to-end computer vision pipeline for exploring and analyzing images at scale, developed to analyze large collections of historical maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T14:23:30Z",
+            "owner": "maps-as-data",
+            "repo": "MapReader",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HiRoNEx",
+          "description": "Python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-29T07:02:18Z",
+            "owner": "johannesuhl",
+            "repo": "hironex",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "desCartes",
+          "description": "Recognises roads on old maps and converts them to vector lines for GIS applications and historical transport network analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-13T22:06:52Z",
+            "owner": "docuracy",
+            "repo": "desCartes",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Useful Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Digital Humanities",
+          "description": "Software for humanities scholars using quantitative or computational methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-07-23T15:05:43Z",
+            "owner": "dh-tech",
+            "repo": "awesome-digital-humanities",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Archaeo",
+          "description": "A list of open source archaeological software and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-14T13:09:02Z",
+            "owner": "zackbatist",
+            "repo": "open-archaeo",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "Digital Humanities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome GIS",
+          "description": "All things Geographic Information Systems (GIS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-21T09:10:54Z",
+            "owner": "sshuair",
+            "repo": "awesome-gis",
+            "stars": 5473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Geospatial",
+          "description": "Long list of geospatial tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T12:00:01Z",
+            "owner": "sacridini",
+            "repo": "Awesome-Geospatial",
+            "stars": 5246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Satellite Imagery Datasets",
+          "description": "Satellite imagery datasets with annotations for computer vision and deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-07-14T18:02:46Z",
+            "owner": "chrieke",
+            "repo": "awesome-satellite-imagery-datasets",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Vector Tiles",
+          "description": "Implementations of the Mapbox Vector Tile specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T19:17:38Z",
+            "owner": "mapbox",
+            "repo": "awesome-vector-tiles",
+            "stars": 2620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome GeoJSON",
+          "description": "GeoJSON utilities that will make your life easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T13:51:40Z",
+            "owner": "tmcw",
+            "repo": "awesome-geojson",
+            "stars": 2525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Remote Sensing Change Detection",
+          "description": "Datasets, codes, researchers and contests related to remote sensing change detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T14:44:49Z",
+            "owner": "wenhwu",
+            "repo": "awesome-remote-sensing-change-detection",
+            "stars": 2299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Open Geoscience",
+          "description": "Curated from repositories that make geoscientists' lives easier or more awesome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-26T11:55:08Z",
+            "owner": "softwareunderground",
+            "repo": "awesome-open-geoscience",
+            "stars": 1811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Earth Observation Code",
+          "description": "Tools, tutorials, code, helpful projects, links about Earth Observation and geospatial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-13T19:36:13Z",
+            "owner": "acgeospatial",
+            "repo": "awesome-earthobservation-code",
+            "stars": 1377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome GEE",
+          "description": "Google Earth Engine resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T20:27:02Z",
+            "owner": "opengeos",
+            "repo": "Awesome-GEE",
+            "stars": 1234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Geospatial Companies",
+          "description": "List of 500+ geospatial companies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T02:14:59Z",
+            "owner": "chrieke",
+            "repo": "awesome-geospatial-companies",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome QGIS",
+          "description": "All things QGIS, the FOSS GIS program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T14:27:47Z",
+            "owner": "totpero",
+            "repo": "awesome-qgis",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome ArcGIS",
+          "description": "Resource list/wiki for ArcGIS users and developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-01-05T06:05:31Z",
+            "owner": "esri-es",
+            "repo": "awesome-arcgis",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Geospatial"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "This list includes resources from various institutions worldwide dedicated to historical cartography and mapping.",
+      "items": [],
+      "title": "Footnotes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:58.547Z",
+    "original_repository": "stark1tty/awesome-historical-maps",
+    "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
+    "enhanced_repository": "enhansome/enhansome-historical-maps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Historical Maps with stars"
+  }
+}
