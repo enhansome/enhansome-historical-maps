@@ -531,7 +531,7 @@
 * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience#readme) ⭐ 1,812 | 🐛 10 | 📅 2026-05-26 - Curated from repositories that make geoscientists' lives easier or more awesome.
 * [Awesome Earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code#readme) ⭐ 1,377 | 🐛 5 | 🌐 HTML | 📅 2026-05-13 - Tools, tutorials, code, helpful projects, links about Earth Observation and geospatial.
 * [Awesome GEE](https://github.com/giswqs/Awesome-GEE#readme) ⭐ 1,234 | 🐛 2 | 📅 2026-07-20 - Google Earth Engine resources.
-* [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies#readme) ⭐ 880 | 🐛 3 | 🌐 Python | 📅 2026-07-09 - List of 500+ geospatial companies.
+* [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies#readme) ⭐ 883 | 🐛 3 | 🌐 Python | 📅 2026-07-09 - List of 500+ geospatial companies.
 * [Awesome QGIS](https://github.com/totpero/awesome-qgis#readme) ⭐ 30 | 🐛 0 | 📅 2026-07-23 - All things QGIS, the FOSS GIS program.
 * [Awesome ArcGIS](https://github.com/esri-es/awesome-arcgis/#readme) ⭐ 30 | 🐛 0 | 🌐 HTML | 📅 2021-01-05 - Resource list/wiki for ArcGIS users and developers.
 
@@ -555,4 +555,4 @@ This list includes resources from various institutions worldwide dedicated to hi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
