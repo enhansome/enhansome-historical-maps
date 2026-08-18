@@ -136,7 +136,7 @@
             "last_commit": "2026-07-23T15:05:43Z",
             "owner": "dh-tech",
             "repo": "awesome-digital-humanities",
-            "stars": 402
+            "stars": 404
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5479
+            "stars": 5483
           }
         },
         {
@@ -181,10 +181,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T12:00:01Z",
+            "last_commit": "2026-08-18T09:26:13Z",
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5253
+            "stars": 5257
           }
         },
         {
@@ -212,7 +212,7 @@
             "last_commit": "2026-08-10T19:17:38Z",
             "owner": "mapbox",
             "repo": "awesome-vector-tiles",
-            "stars": 2620
+            "stars": 2621
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-07-23T13:51:40Z",
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2526
+            "stars": 2527
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-04-16T14:44:49Z",
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2300
+            "stars": 2301
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1813
+            "stars": 1814
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-05-13T19:36:13Z",
             "owner": "acgeospatial",
             "repo": "awesome-earthobservation-code",
-            "stars": 1377
+            "stars": 1378
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-20T20:27:02Z",
             "owner": "opengeos",
             "repo": "Awesome-GEE",
-            "stars": 1233
+            "stars": 1234
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-07-09T02:14:59Z",
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 883
+            "stars": 885
           }
         },
         {
@@ -347,7 +347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:21:54.156Z",
+    "last_updated": "2026-08-18T13:24:39.331Z",
     "original_repository": "stark1tty/awesome-historical-maps",
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
     "enhanced_repository": "enhansome/enhansome-historical-maps",
