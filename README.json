@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-29T14:23:30Z",
                 "owner": "maps-as-data",
                 "repo": "MapReader",
-                "stars": 143
+                "stars": 144
               }
             },
             {
@@ -92,7 +92,7 @@
                     "last_commit": "2026-08-19T04:59:58Z",
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 404
+                    "stars": 406
                   }
                 },
                 {
@@ -129,7 +129,7 @@
                     "last_commit": "2026-07-21T09:10:54Z",
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5484
+                    "stars": 5489
                   }
                 },
                 {
@@ -141,10 +141,10 @@
                     "archived": false,
                     "id": 58225794,
                     "language": null,
-                    "last_commit": "2026-08-19T07:45:54Z",
+                    "last_commit": "2026-08-20T12:40:36Z",
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5258
+                    "stars": 5262
                   }
                 },
                 {
@@ -189,7 +189,7 @@
                     "last_commit": "2026-07-23T13:51:40Z",
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2527
+                    "stars": 2528
                   }
                 },
                 {
@@ -204,7 +204,7 @@
                     "last_commit": "2026-04-16T14:44:49Z",
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2302
+                    "stars": 2305
                   }
                 },
                 {
@@ -219,7 +219,7 @@
                     "last_commit": "2026-05-26T11:55:08Z",
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1814
+                    "stars": 1816
                   }
                 },
                 {
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:25:56.762Z",
+    "last_updated": "2026-08-20T13:27:45.651Z",
     "original_repository": "stark1tty/awesome-historical-maps",
     "original_repository_id": 588288282,
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
