@@ -129,7 +129,7 @@
                     "last_commit": "2026-07-21T09:10:54Z",
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5489
+                    "stars": 5492
                   }
                 },
                 {
@@ -144,7 +144,7 @@
                     "last_commit": "2026-08-20T12:40:36Z",
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5262
+                    "stars": 5266
                   }
                 },
                 {
@@ -189,7 +189,7 @@
                     "last_commit": "2026-07-23T13:51:40Z",
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2528
+                    "stars": 2529
                   }
                 },
                 {
@@ -219,7 +219,7 @@
                     "last_commit": "2026-05-26T11:55:08Z",
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1816
+                    "stars": 1818
                   }
                 },
                 {
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:27:45.651Z",
+    "last_updated": "2026-08-21T13:26:59.118Z",
     "original_repository": "stark1tty/awesome-historical-maps",
     "original_repository_id": 588288282,
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
