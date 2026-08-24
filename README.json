@@ -7,6 +7,70 @@
           "children": [
             {
               "node_type": "item",
+              "title": "World Historical Atlas",
+              "description": "World map which shows change of countries from the ancient time to the present time. Patched version here.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347954542,
+                "language": "JavaScript",
+                "last_commit": "2023-10-07T10:47:04Z",
+                "owner": "kaorahi",
+                "repo": "patched-historical-atlas",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "World"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "TORA (Topographical Register at the National Archives)",
+                      "description": "Geocoded register of historical settlement units in Sweden, and a linked open data service connecting historical sources and databases. GitHub.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 293433781,
+                        "language": null,
+                        "last_commit": "2020-09-10T13:48:28Z",
+                        "owner": "Riksarkivet",
+                        "repo": "tora",
+                        "stars": 4
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Sweden"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Northern Europe"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Europe"
+        }
+      ],
+      "title": "Map Collections"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Map Warper",
               "description": "Open source map geo-rectification, warping and georeferencing application.",
               "children": [],
@@ -69,6 +133,28 @@
           "description": null,
           "node_type": "group",
           "title": "Applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Historical Maps Vectorization Tools",
+              "description": "Toolbox to vectorize fluvial corridor objects on historical maps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488105890,
+                "language": "Python",
+                "last_commit": "2022-05-31T11:57:52Z",
+                "owner": "EVS-GIS",
+                "repo": "hmvt-cli",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QGIS Extensions"
         }
       ],
       "title": "Tools"
@@ -312,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:31:21.061Z",
+    "last_updated": "2026-08-24T14:43:57.763Z",
     "original_repository": "stark1tty/awesome-historical-maps",
     "original_repository_id": 588288282,
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",

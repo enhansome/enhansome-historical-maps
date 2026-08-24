@@ -91,9 +91,9 @@
 
 ### World
 
+* [World Historical Atlas](http://x768.com/w/twha.en) - World map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2023-10-07
 * [Open Historical Map](https://www.openhistoricalmap.org/) - Collaborative project to build a free, editable map of the world's history.
 * [The Pelagios Network](https://pelagios.org/) - Long-running initiative that links information online through common references to places, connecting researchers, scientists and curators to link and explore the history of places.
-* [World Historical Atlas](http://x768.com/w/twha.en) - World map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2023-10-07
 * [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about medieval maps.
 * [ChronoScope World](https://mprove.de/chronoscope/world.html) - Time machine to explore the history of the world by browsing more than 4,200 high-resolution maps dating back to 14th century B.C., displayed on correct geo locations.
 * [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes the [King George III Topographical and Maritime collections](https://www.bl.uk/collection-guides/king-george-iii), [globes](https://www.bl.uk/collection-guides/globes), [digital mapping](https://www.bl.uk/collection-guides/digital-mapping), [manuscript maps](https://www.bl.uk/collection-guides/manuscript-maps), and [visual arts](https://www.bl.uk/subjects/visual-arts) collections.
