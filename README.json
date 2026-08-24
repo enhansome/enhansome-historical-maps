@@ -92,7 +92,7 @@
                     "last_commit": "2026-08-19T04:59:58Z",
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 406
+                    "stars": 407
                   }
                 },
                 {
@@ -129,7 +129,7 @@
                     "last_commit": "2026-07-21T09:10:54Z",
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5494
+                    "stars": 5497
                   }
                 },
                 {
@@ -144,7 +144,7 @@
                     "last_commit": "2026-08-20T12:40:36Z",
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5268
+                    "stars": 5269
                   }
                 },
                 {
@@ -159,7 +159,7 @@
                     "last_commit": "2022-07-14T18:02:46Z",
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3916
+                    "stars": 3915
                   }
                 },
                 {
@@ -174,7 +174,7 @@
                     "last_commit": "2026-08-10T19:17:38Z",
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
-                    "stars": 2621
+                    "stars": 2622
                   }
                 },
                 {
@@ -204,7 +204,7 @@
                     "last_commit": "2026-04-16T14:44:49Z",
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2305
+                    "stars": 2308
                   }
                 },
                 {
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:10:57.366Z",
+    "last_updated": "2026-08-24T13:31:21.061Z",
     "original_repository": "stark1tty/awesome-historical-maps",
     "original_repository_id": 588288282,
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
