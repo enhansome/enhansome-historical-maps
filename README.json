@@ -96,7 +96,7 @@
                 "last_commit": "2026-05-29T14:23:30Z",
                 "owner": "maps-as-data",
                 "repo": "MapReader",
-                "stars": 145
+                "stars": 146
               }
             },
             {
@@ -193,7 +193,7 @@
                     "last_commit": "2026-05-14T13:09:02Z",
                     "owner": "zackbatist",
                     "repo": "open-archaeo",
-                    "stars": 137
+                    "stars": 138
                   }
                 }
               ],
@@ -215,7 +215,7 @@
                     "last_commit": "2026-07-21T09:10:54Z",
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5499
+                    "stars": 5501
                   }
                 },
                 {
@@ -227,7 +227,7 @@
                     "archived": false,
                     "id": 58225794,
                     "language": null,
-                    "last_commit": "2026-08-20T12:40:36Z",
+                    "last_commit": "2026-08-25T16:07:49Z",
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
                     "stars": 5270
@@ -290,7 +290,7 @@
                     "last_commit": "2026-04-16T14:44:49Z",
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2310
+                    "stars": 2311
                   }
                 },
                 {
@@ -305,7 +305,7 @@
                     "last_commit": "2026-05-26T11:55:08Z",
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1820
+                    "stars": 1822
                   }
                 },
                 {
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:28:58.070Z",
+    "last_updated": "2026-08-26T13:34:51.046Z",
     "original_repository": "stark1tty/awesome-historical-maps",
     "original_repository_id": 588288282,
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
