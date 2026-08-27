@@ -193,7 +193,7 @@
                     "last_commit": "2026-05-14T13:09:02Z",
                     "owner": "zackbatist",
                     "repo": "open-archaeo",
-                    "stars": 138
+                    "stars": 139
                   }
                 }
               ],
@@ -215,7 +215,7 @@
                     "last_commit": "2026-07-21T09:10:54Z",
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5501
+                    "stars": 5502
                   }
                 },
                 {
@@ -275,7 +275,7 @@
                     "last_commit": "2026-07-23T13:51:40Z",
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2530
+                    "stars": 2531
                   }
                 },
                 {
@@ -290,7 +290,7 @@
                     "last_commit": "2026-04-16T14:44:49Z",
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2311
+                    "stars": 2312
                   }
                 },
                 {
@@ -305,7 +305,7 @@
                     "last_commit": "2026-05-26T11:55:08Z",
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1822
+                    "stars": 1823
                   }
                 },
                 {
@@ -398,9 +398,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:34:51.046Z",
-    "original_repository": "stark1tty/awesome-historical-maps",
-    "original_repository_id": 588288282,
+    "last_updated": "2026-08-27T11:42:19.048Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 588288282,
+      "language": "HTML",
+      "last_commit": "2026-04-30T23:02:57Z",
+      "owner": "stark1tty",
+      "repo": "awesome-historical-maps",
+      "stars": 108
+    },
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
     "enhanced_repository": "enhansome/enhansome-historical-maps",
     "enhanced_repository_description": null,
