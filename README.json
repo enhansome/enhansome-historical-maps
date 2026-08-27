@@ -96,7 +96,7 @@
                 "last_commit": "2026-05-29T14:23:30Z",
                 "owner": "maps-as-data",
                 "repo": "MapReader",
-                "stars": 146
+                "stars": 147
               }
             },
             {
@@ -178,7 +178,7 @@
                     "last_commit": "2026-08-19T04:59:58Z",
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 407
+                    "stars": 408
                   }
                 },
                 {
@@ -215,7 +215,7 @@
                     "last_commit": "2026-07-21T09:10:54Z",
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5502
+                    "stars": 5503
                   }
                 },
                 {
@@ -305,7 +305,7 @@
                     "last_commit": "2026-05-26T11:55:08Z",
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1823
+                    "stars": 1824
                   }
                 },
                 {
@@ -332,7 +332,7 @@
                     "archived": false,
                     "id": 272061573,
                     "language": null,
-                    "last_commit": "2026-07-20T20:27:02Z",
+                    "last_commit": "2026-08-27T19:01:26Z",
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
                     "stars": 1238
@@ -362,10 +362,10 @@
                     "archived": false,
                     "id": 442888114,
                     "language": null,
-                    "last_commit": "2026-07-23T14:27:47Z",
+                    "last_commit": "2026-08-27T19:07:37Z",
                     "owner": "totpero",
                     "repo": "awesome-qgis",
-                    "stars": 30
+                    "stars": 31
                   }
                 },
                 {
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:19.048Z",
+    "last_updated": "2026-08-27T22:29:36.536Z",
     "original_repository_info": {
       "archived": false,
       "id": 588288282,
