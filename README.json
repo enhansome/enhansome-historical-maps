@@ -18,7 +18,8 @@
                 "owner": "kaorahi",
                 "repo": "patched-historical-atlas",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T22:32:27.568Z"
             }
           ],
           "description": null,
@@ -44,7 +45,8 @@
                         "owner": "Riksarkivet",
                         "repo": "tora",
                         "stars": 4
-                      }
+                      },
+                      "first_seen": "2026-08-28T22:32:27.568Z"
                     }
                   ],
                   "description": null,
@@ -82,7 +84,8 @@
                 "owner": "timwaters",
                 "repo": "mapwarper",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T22:32:27.568Z"
             },
             {
               "node_type": "item",
@@ -97,7 +100,8 @@
                 "owner": "maps-as-data",
                 "repo": "MapReader",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T22:32:27.568Z"
             },
             {
               "node_type": "item",
@@ -112,7 +116,8 @@
                 "owner": "johannesuhl",
                 "repo": "hironex",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T22:32:27.568Z"
             },
             {
               "node_type": "item",
@@ -127,7 +132,8 @@
                 "owner": "docuracy",
                 "repo": "desCartes",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:32:27.568Z"
             }
           ],
           "description": null,
@@ -149,7 +155,8 @@
                 "owner": "EVS-GIS",
                 "repo": "hmvt-cli",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:32:27.568Z"
             }
           ],
           "description": null,
@@ -179,7 +186,8 @@
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
                     "stars": 408
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -194,7 +202,8 @@
                     "owner": "zackbatist",
                     "repo": "open-archaeo",
                     "stars": 139
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 }
               ],
               "description": null,
@@ -216,7 +225,8 @@
                     "owner": "sshuair",
                     "repo": "awesome-gis",
                     "stars": 5503
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -227,11 +237,12 @@
                     "archived": false,
                     "id": 58225794,
                     "language": null,
-                    "last_commit": "2026-08-25T16:07:49Z",
+                    "last_commit": "2026-08-28T09:10:40Z",
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5270
-                  }
+                    "stars": 5271
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -245,8 +256,9 @@
                     "last_commit": "2022-07-14T18:02:46Z",
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3915
-                  }
+                    "stars": 3914
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -261,7 +273,8 @@
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
                     "stars": 2622
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -276,7 +289,8 @@
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
                     "stars": 2531
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -290,8 +304,9 @@
                     "last_commit": "2026-04-16T14:44:49Z",
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2312
-                  }
+                    "stars": 2313
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -305,8 +320,9 @@
                     "last_commit": "2026-05-26T11:55:08Z",
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1824
-                  }
+                    "stars": 1826
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -320,8 +336,9 @@
                     "last_commit": "2026-05-13T19:36:13Z",
                     "owner": "acgeospatial",
                     "repo": "awesome-earthobservation-code",
-                    "stars": 1378
-                  }
+                    "stars": 1379
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -336,7 +353,8 @@
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
                     "stars": 1238
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -351,7 +369,8 @@
                     "owner": "chrieke",
                     "repo": "awesome-geospatial-companies",
                     "stars": 888
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -366,7 +385,8 @@
                     "owner": "totpero",
                     "repo": "awesome-qgis",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 },
                 {
                   "node_type": "item",
@@ -381,7 +401,8 @@
                     "owner": "esri-es",
                     "repo": "awesome-arcgis",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:32:27.568Z"
                 }
               ],
               "description": null,
@@ -398,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:29:36.536Z",
+    "last_updated": "2026-08-28T22:32:27.568Z",
     "original_repository_info": {
       "archived": false,
       "id": 588288282,
