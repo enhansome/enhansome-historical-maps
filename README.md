@@ -292,7 +292,7 @@
 
 ##### Sweden
 
-* [TORA (Topographical Register at the National Archives)](https://riksarkivet.se/tora-english) - Geocoded register of historical settlement units in Sweden, and a linked open data service connecting historical sources and databases. [GitHub.](https://github.com/Riksarkivet/tora) ⭐ 4 | 🐛 1 | 📅 2020-09-10
+* [TORA (Topographical Register at the National Archives)](https://riksarkivet.se/tora-english) - Geocoded register of historical settlement units in Sweden, and a linked open data service connecting historical sources and databases. [GitHub.](https://github.com/Riksarkivet/tora) ⭐ 5 | 🐛 1 | 📅 2020-09-10
 * [Lantmäteriet: Historiska kartor](https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/Historiska-kartor/) - The Swedish national land survey authority's portal for over 100,000 high-resolution historical maps, including the 17th-century cadastral Häradskartorna series.
 
 #### United Kingdom & Ireland
@@ -522,12 +522,12 @@
 
 #### Geospatial
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,503 | 🐛 63 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
+* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,504 | 🐛 63 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
 * [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,271 | 🐛 1 | 📅 2026-08-28 - Long list of geospatial tools and resources.
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets#readme) ⚠️ Archived - Satellite imagery datasets with annotations for computer vision and deep learning.
 * [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,623 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
 * [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,531 | 🐛 1 | 📅 2026-07-23 - GeoJSON utilities that will make your life easier.
-* [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection#readme) ⭐ 2,313 | 🐛 2 | 📅 2026-04-16 - Datasets, codes, researchers and contests related to remote sensing change detection.
+* [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection#readme) ⭐ 2,312 | 🐛 2 | 📅 2026-04-16 - Datasets, codes, researchers and contests related to remote sensing change detection.
 * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience#readme) ⭐ 1,826 | 🐛 11 | 📅 2026-05-26 - Curated from repositories that make geoscientists' lives easier or more awesome.
 * [Awesome Earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code#readme) ⭐ 1,379 | 🐛 6 | 🌐 HTML | 📅 2026-05-13 - Tools, tutorials, code, helpful projects, links about Earth Observation and geospatial.
 * [Awesome GEE](https://github.com/giswqs/Awesome-GEE#readme) ⭐ 1,238 | 🐛 0 | 📅 2026-08-27 - Google Earth Engine resources.
