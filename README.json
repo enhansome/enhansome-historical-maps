@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "interactive world map (4000BC-20XX, every year)",
+                "homepage": null,
                 "id": 347954542,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-07T10:47:04Z",
+                "open_issues": 2,
                 "owner": "kaorahi",
                 "repo": "patched-historical-atlas",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "historical-maps",
+                  "world-history"
+                ]
               },
               "first_seen": "2026-08-28T22:32:27.568Z"
             }
@@ -39,12 +47,30 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "TORA (Topographical Register at the National Archives) is a research resource at the Swedish National Archives",
+                        "homepage": "https://riksarkivet.se/tora-english",
                         "id": 293433781,
                         "language": null,
+                        "license": null,
                         "last_commit": "2020-09-10T13:48:28Z",
+                        "open_issues": 1,
                         "owner": "Riksarkivet",
                         "repo": "tora",
-                        "stars": 4
+                        "stars": 4,
+                        "topics": [
+                          "geocoding",
+                          "geographical-information-system",
+                          "gis-data",
+                          "historical-database",
+                          "historical-maps",
+                          "history",
+                          "human-geography",
+                          "linked-open-data",
+                          "rdf-triples",
+                          "settlements",
+                          "sparql-endpoints",
+                          "tei-xml"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:32:27.568Z"
                     }
@@ -78,12 +104,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "free open source public map georeferencer, georectifier and warper",
+                "homepage": "http://mapwarper.net",
                 "id": 749491,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-31T13:10:26Z",
+                "open_issues": 110,
                 "owner": "timwaters",
                 "repo": "mapwarper",
-                "stars": 218
+                "stars": 218,
+                "topics": [
+                  "georectification",
+                  "georeferencing",
+                  "geotiff",
+                  "historical-maps",
+                  "mosaic",
+                  "openstreetmap",
+                  "postgis",
+                  "ruby",
+                  "tiles",
+                  "wms"
+                ]
               },
               "first_seen": "2026-08-28T22:32:27.568Z"
             },
@@ -94,12 +136,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A computer vision pipeline for exploring and analyzing images at scale",
+                "homepage": "https://mapreader.readthedocs.io/en/latest/",
                 "id": 430661738,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-29T14:23:30Z",
+                "open_issues": 85,
                 "owner": "maps-as-data",
                 "repo": "MapReader",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "article",
+                  "computer-vision",
+                  "deep-learning",
+                  "digital-humanities",
+                  "hut23",
+                  "hut23-96",
+                  "machine-learning",
+                  "maps",
+                  "pytorch",
+                  "spatial-data"
+                ]
               },
               "first_seen": "2026-08-28T22:32:27.568Z"
             },
@@ -110,12 +168,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HiRoNEx: Historical road network extractor: A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.",
+                "homepage": null,
                 "id": 477897439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-29T07:02:18Z",
+                "open_issues": 0,
                 "owner": "johannesuhl",
                 "repo": "hironex",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "clustering",
+                  "geographic-data",
+                  "geographical-information-system",
+                  "historical-data",
+                  "historical-gis",
+                  "historical-maps",
+                  "map",
+                  "map-processing",
+                  "road-network",
+                  "spatial-data",
+                  "topographic-maps",
+                  "transportation",
+                  "transportation-network",
+                  "urbanization"
+                ]
               },
               "first_seen": "2026-08-28T22:32:27.568Z"
             },
@@ -126,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 953162686,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-04-13T22:06:52Z",
+                "open_issues": 0,
                 "owner": "docuracy",
                 "repo": "desCartes",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:32:27.568Z"
             }
@@ -149,12 +232,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Historical Maps Vectorization Toolbox",
+                "homepage": null,
                 "id": 488105890,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-31T11:57:52Z",
+                "open_issues": 0,
                 "owner": "EVS-GIS",
                 "repo": "hmvt-cli",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cartography",
+                  "historical-data",
+                  "maps"
+                ]
               },
               "first_seen": "2026-08-28T22:32:27.568Z"
             }
@@ -180,12 +272,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Software for humanities scholars using quantitative or computational methods.",
+                    "homepage": "https://dh-tech.github.io/awesome-digital-humanities/",
                     "id": 99738996,
                     "language": "SCSS",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-19T04:59:58Z",
+                    "open_issues": 4,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 408
+                    "stars": 408,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "dh-resources",
+                      "dh-tools",
+                      "digital-humanities"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -196,12 +299,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A list of open source archaeological software and resources",
+                    "homepage": "https://open-archaeo.info",
                     "id": 161750127,
                     "language": "R",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-05-14T13:09:02Z",
+                    "open_issues": 4,
                     "owner": "zackbatist",
                     "repo": "open-archaeo",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 }
@@ -219,12 +327,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.",
+                    "homepage": null,
                     "id": 52671720,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
+                    "open_issues": 63,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5503
+                    "stars": 5503,
+                    "topics": [
+                      "awesome",
+                      "geo",
+                      "geospatial",
+                      "geospatial-library",
+                      "geotools",
+                      "gis",
+                      "map",
+                      "spatial-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -235,12 +357,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Long list of geospatial tools and resources",
+                    "homepage": null,
                     "id": 58225794,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-28T09:10:40Z",
+                    "open_issues": 1,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5271
+                    "stars": 5271,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "data-analysis",
+                      "deep-learning",
+                      "earth-observation",
+                      "geoprocessing",
+                      "geospatial",
+                      "geospatial-analysis",
+                      "geotools",
+                      "gis",
+                      "machine-learning",
+                      "map",
+                      "remote-sensing",
+                      "spatial-analysis",
+                      "spatial-data"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -251,12 +394,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "🛰️ List of satellite image training datasets with annotations for computer vision and deep learning",
+                    "homepage": null,
                     "id": 131768562,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2022-07-14T18:02:46Z",
+                    "open_issues": 0,
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3914
+                    "stars": 3914,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "earth-observation",
+                      "instance-segmentation",
+                      "machine-learning",
+                      "object-detection",
+                      "remote-sensing",
+                      "satellite-imagery"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -267,12 +424,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Awesome implementations of the Mapbox Vector Tile specification",
+                    "homepage": "https://www.mapbox.com/developers/vector-tiles/",
                     "id": 41861984,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-10T19:17:38Z",
+                    "open_issues": 3,
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
-                    "stars": 2622
+                    "stars": 2623,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -283,12 +445,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GeoJSON utilities that will make your life easier.",
+                    "homepage": null,
                     "id": 36456042,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-07-23T13:51:40Z",
+                    "open_issues": 1,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2531
+                    "stars": 2531,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "geojson",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -299,12 +471,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
+                    "homepage": null,
                     "id": 155948788,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-04-16T14:44:49Z",
+                    "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2313
+                    "stars": 2313,
+                    "topics": [
+                      "awesome",
+                      "change-detection",
+                      "dataset",
+                      "deep-learning",
+                      "remote-sensing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -315,12 +498,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",
+                    "homepage": null,
                     "id": 107413465,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-05-26T11:55:08Z",
+                    "open_issues": 11,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1826
+                    "stars": 1826,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "cheatsheet",
+                      "geochemistry",
+                      "geology",
+                      "geophysics",
+                      "geoscience",
+                      "geosciences",
+                      "geospatial",
+                      "geostatistics",
+                      "groundwater",
+                      "modflow",
+                      "open-data",
+                      "open-science",
+                      "open-source",
+                      "python",
+                      "reservoir-modeling",
+                      "seismic",
+                      "simulation",
+                      "subsurface"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -331,12 +540,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery",
+                    "homepage": null,
                     "id": 255615540,
                     "language": "HTML",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-05-13T19:36:13Z",
+                    "open_issues": 6,
                     "owner": "acgeospatial",
                     "repo": "awesome-earthobservation-code",
-                    "stars": 1379
+                    "stars": 1379,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "earth-observation",
+                      "geospatial-data",
+                      "google-earth-engine",
+                      "remote-sensing",
+                      "satellite-data",
+                      "satellite-imagery"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -347,12 +570,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of Google Earth Engine resources",
+                    "homepage": "https://awesome.geemap.org",
                     "id": 272061573,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-27T19:01:26Z",
+                    "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1238
+                    "stars": 1238,
+                    "topics": [
+                      "earth-engine",
+                      "earthengine",
+                      "geospatial",
+                      "gis",
+                      "google-earth-engine",
+                      "ipyleaflet",
+                      "javascript",
+                      "jupyter-notebook",
+                      "mapping",
+                      "python",
+                      "remote-sensing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -363,12 +603,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":globe_with_meridians: List & Map of 800+ companies for geospatial jobs (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)",
+                    "homepage": null,
                     "id": 272108471,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T02:14:59Z",
+                    "open_issues": 5,
                     "owner": "chrieke",
                     "repo": "awesome-geospatial-companies",
-                    "stars": 888
+                    "stars": 888,
+                    "topics": [
+                      "companies",
+                      "earth-observation",
+                      "farming",
+                      "geospatial",
+                      "gis",
+                      "jobs",
+                      "map",
+                      "remote-sensing",
+                      "satellite",
+                      "uav"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -379,12 +635,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.",
+                    "homepage": null,
                     "id": 442888114,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-27T19:07:37Z",
+                    "open_issues": 0,
                     "owner": "totpero",
                     "repo": "awesome-qgis",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "qgis",
+                      "qgis-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 },
@@ -395,12 +661,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "La mayor recopilación (Wiki) de recursos sobre ArcGIS que encontrarás (organizado por productos, conceptos, ...)",
+                    "homepage": "https://esri-es.github.io/awesome-arcgis/",
                     "id": 76625738,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-05T06:05:31Z",
+                    "open_issues": 0,
                     "owner": "esri-es",
                     "repo": "awesome-arcgis",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "arcgis",
+                      "arcgis-api",
+                      "arcgis-desktop",
+                      "arcgis-js",
+                      "arcgis-js-api",
+                      "arcgis-online",
+                      "arcgis-runtime-sdk",
+                      "arcgis-server",
+                      "awesome",
+                      "awesome-list"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
                 }
@@ -419,15 +701,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:32:27.568Z",
+    "last_updated": "2026-08-29T04:57:50.617Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
+      "homepage": "https://historicmaps.world/",
       "id": 588288282,
       "language": "HTML",
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-04-30T23:02:57Z",
+      "open_issues": 0,
       "owner": "stark1tty",
       "repo": "awesome-historical-maps",
-      "stars": 108
+      "stars": 108,
+      "topics": [
+        "archaeology",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "cartography",
+        "geography",
+        "georeferenced-data",
+        "georeferencing",
+        "geospatial",
+        "gis",
+        "heritage",
+        "historical",
+        "historical-data",
+        "historical-documents",
+        "historical-maps",
+        "history",
+        "landscape",
+        "map",
+        "open-science",
+        "spatial"
+      ]
     },
     "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
     "enhanced_repository": "enhansome/enhansome-historical-maps",

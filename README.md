@@ -522,10 +522,10 @@
 
 #### Geospatial
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,503 | 🐛 62 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
+* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,503 | 🐛 63 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
 * [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,271 | 🐛 1 | 📅 2026-08-28 - Long list of geospatial tools and resources.
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets#readme) ⚠️ Archived - Satellite imagery datasets with annotations for computer vision and deep learning.
-* [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,622 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
+* [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,623 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
 * [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,531 | 🐛 1 | 📅 2026-07-23 - GeoJSON utilities that will make your life easier.
 * [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection#readme) ⭐ 2,313 | 🐛 2 | 📅 2026-04-16 - Datasets, codes, researchers and contests related to remote sensing change detection.
 * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience#readme) ⭐ 1,826 | 🐛 11 | 📅 2026-05-26 - Curated from repositories that make geoscientists' lives easier or more awesome.
@@ -555,4 +555,4 @@ This list includes resources from various institutions worldwide dedicated to hi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
