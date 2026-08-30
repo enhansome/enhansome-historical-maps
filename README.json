@@ -281,7 +281,7 @@
                     "open_issues": 4,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 408,
+                    "stars": 409,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -333,10 +333,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 63,
+                    "open_issues": 64,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5504,
+                    "stars": 5506,
                     "topics": [
                       "awesome",
                       "geo",
@@ -366,7 +366,7 @@
                     "open_issues": 1,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5271,
+                    "stars": 5270,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -403,7 +403,7 @@
                     "open_issues": 0,
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3914,
+                    "stars": 3913,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -549,7 +549,7 @@
                     "open_issues": 6,
                     "owner": "acgeospatial",
                     "repo": "awesome-earthobservation-code",
-                    "stars": 1379,
+                    "stars": 1380,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:50:20.705Z",
+    "last_updated": "2026-08-30T16:54:54.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
