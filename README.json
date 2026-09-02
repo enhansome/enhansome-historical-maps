@@ -278,7 +278,7 @@
                     "language": "SCSS",
                     "license": "CC0-1.0",
                     "last_commit": "2026-08-19T04:59:58Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
                     "stars": 410,
@@ -336,7 +336,7 @@
                     "open_issues": 67,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5508,
+                    "stars": 5511,
                     "topics": [
                       "awesome",
                       "geo",
@@ -366,7 +366,7 @@
                     "open_issues": 1,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5274,
+                    "stars": 5276,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -433,7 +433,7 @@
                     "open_issues": 3,
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
-                    "stars": 2623,
+                    "stars": 2624,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
@@ -454,7 +454,7 @@
                     "open_issues": 0,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2535,
+                    "stars": 2536,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -504,10 +504,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-05-26T11:55:08Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1829,
+                    "stars": 1830,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -546,7 +546,7 @@
                     "language": "HTML",
                     "license": "CC0-1.0",
                     "last_commit": "2026-05-13T19:36:13Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "acgeospatial",
                     "repo": "awesome-earthobservation-code",
                     "stars": 1380,
@@ -612,7 +612,7 @@
                     "open_issues": 5,
                     "owner": "chrieke",
                     "repo": "awesome-geospatial-companies",
-                    "stars": 889,
+                    "stars": 890,
                     "topics": [
                       "companies",
                       "earth-observation",
@@ -644,7 +644,7 @@
                     "open_issues": 0,
                     "owner": "totpero",
                     "repo": "awesome-qgis",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:50:08.625Z",
+    "last_updated": "2026-09-02T16:47:20.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
