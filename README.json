@@ -277,8 +277,8 @@
                     "id": 99738996,
                     "language": "SCSS",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-08-19T04:59:58Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-09-03T13:16:04Z",
+                    "open_issues": 7,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
                     "stars": 410,
@@ -362,7 +362,7 @@
                     "id": 58225794,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-01T09:18:55Z",
+                    "last_commit": "2026-09-03T09:03:19Z",
                     "open_issues": 1,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
@@ -480,7 +480,7 @@
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2315,
+                    "stars": 2316,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -507,7 +507,7 @@
                     "open_issues": 12,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1830,
+                    "stars": 1831,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -549,7 +549,7 @@
                     "open_issues": 7,
                     "owner": "acgeospatial",
                     "repo": "awesome-earthobservation-code",
-                    "stars": 1380,
+                    "stars": 1381,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:47:20.021Z",
+    "last_updated": "2026-09-03T16:37:08.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
