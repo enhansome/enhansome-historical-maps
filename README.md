@@ -91,7 +91,7 @@
 
 ### World
 
-* [World Historical Atlas](http://x768.com/w/twha.en) - World map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2023-10-07
+* [World Historical Atlas](http://x768.com/w/twha.en) - World map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2023-10-07
 * [Open Historical Map](https://www.openhistoricalmap.org/) - Collaborative project to build a free, editable map of the world's history.
 * [The Pelagios Network](https://pelagios.org/) - Long-running initiative that links information online through common references to places, connecting researchers, scientists and curators to link and explore the history of places.
 * [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about medieval maps.
@@ -522,16 +522,16 @@
 
 #### Geospatial
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,512 | 🐛 68 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
-* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,277 | 🐛 2 | 📅 2026-09-03 - Long list of geospatial tools and resources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,513 | 🐛 68 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
+* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,277 | 🐛 4 | 📅 2026-09-03 - Long list of geospatial tools and resources.
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets#readme) ⚠️ Archived - Satellite imagery datasets with annotations for computer vision and deep learning.
 * [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,624 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
 * [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,536 | 🐛 0 | 📅 2026-09-01 - GeoJSON utilities that will make your life easier.
 * [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection#readme) ⭐ 2,317 | 🐛 2 | 📅 2026-04-16 - Datasets, codes, researchers and contests related to remote sensing change detection.
 * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience#readme) ⭐ 1,832 | 🐛 12 | 📅 2026-05-26 - Curated from repositories that make geoscientists' lives easier or more awesome.
 * [Awesome Earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code#readme) ⭐ 1,381 | 🐛 9 | 🌐 HTML | 📅 2026-05-13 - Tools, tutorials, code, helpful projects, links about Earth Observation and geospatial.
-* [Awesome GEE](https://github.com/giswqs/Awesome-GEE#readme) ⭐ 1,238 | 🐛 0 | 📅 2026-08-31 - Google Earth Engine resources.
-* [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies#readme) ⭐ 890 | 🐛 5 | 🌐 Python | 📅 2026-07-09 - List of 500+ geospatial companies.
+* [Awesome GEE](https://github.com/giswqs/Awesome-GEE#readme) ⭐ 1,239 | 🐛 0 | 📅 2026-08-31 - Google Earth Engine resources.
+* [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies#readme) ⭐ 889 | 🐛 5 | 🌐 Python | 📅 2026-07-09 - List of 500+ geospatial companies.
 * [Awesome QGIS](https://github.com/totpero/awesome-qgis#readme) ⭐ 33 | 🐛 0 | 📅 2026-08-27 - All things QGIS, the FOSS GIS program.
 * [Awesome ArcGIS](https://github.com/esri-es/awesome-arcgis/#readme) ⭐ 30 | 🐛 0 | 🌐 HTML | 📅 2021-01-05 - Resource list/wiki for ArcGIS users and developers.
 
@@ -555,4 +555,4 @@ This list includes resources from various institutions worldwide dedicated to hi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

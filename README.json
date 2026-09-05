@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "kaorahi",
                 "repo": "patched-historical-atlas",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "historical-maps",
                   "world-history"
@@ -336,7 +336,7 @@
                     "open_issues": 68,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5512,
+                    "stars": 5513,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,7 +363,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-03T09:03:19Z",
-                    "open_issues": 2,
+                    "open_issues": 4,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
                     "stars": 5277,
@@ -403,7 +403,7 @@
                     "open_issues": 0,
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3913,
+                    "stars": 3914,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -579,7 +579,7 @@
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1238,
+                    "stars": 1239,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -612,7 +612,7 @@
                     "open_issues": 5,
                     "owner": "chrieke",
                     "repo": "awesome-geospatial-companies",
-                    "stars": 890,
+                    "stars": 889,
                     "topics": [
                       "companies",
                       "earth-observation",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:32:19.217Z",
+    "last_updated": "2026-09-05T15:27:31.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
@@ -713,7 +713,7 @@
       "open_issues": 0,
       "owner": "stark1tty",
       "repo": "awesome-historical-maps",
-      "stars": 108,
+      "stars": 109,
       "topics": [
         "archaeology",
         "awesome",
