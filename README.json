@@ -145,7 +145,7 @@
                 "open_issues": 85,
                 "owner": "maps-as-data",
                 "repo": "MapReader",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "article",
                   "computer-vision",
@@ -277,11 +277,11 @@
                     "id": 99738996,
                     "language": "SCSS",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-03T13:16:04Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-09-07T06:27:45Z",
+                    "open_issues": 4,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -336,7 +336,7 @@
                     "open_issues": 68,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5514,
+                    "stars": 5516,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,7 +363,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-03T09:03:19Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
                     "stars": 5278,
@@ -403,7 +403,7 @@
                     "open_issues": 0,
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3914,
+                    "stars": 3915,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -507,7 +507,7 @@
                     "open_issues": 12,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1832,
+                    "stars": 1833,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:39:51.271Z",
+    "last_updated": "2026-09-07T17:51:28.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
