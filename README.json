@@ -277,8 +277,8 @@
                     "id": 99738996,
                     "language": "SCSS",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-07T06:27:45Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-09T12:46:41Z",
+                    "open_issues": 3,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
                     "stars": 412,
@@ -362,7 +362,7 @@
                     "id": 58225794,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-08T14:01:22Z",
+                    "last_commit": "2026-09-09T07:55:28Z",
                     "open_issues": 2,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
@@ -433,7 +433,7 @@
                     "open_issues": 3,
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
-                    "stars": 2625,
+                    "stars": 2626,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
@@ -454,7 +454,7 @@
                     "open_issues": 0,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2537,
+                    "stars": 2538,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -476,11 +476,11 @@
                     "id": 155948788,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-04-16T14:44:49Z",
+                    "last_commit": "2026-09-09T08:17:49Z",
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2323,
+                    "stars": 2325,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -507,7 +507,7 @@
                     "open_issues": 12,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1834,
+                    "stars": 1835,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:47:47.246Z",
+    "last_updated": "2026-09-09T16:49:52.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
