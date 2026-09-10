@@ -304,7 +304,7 @@
                     "id": 161750127,
                     "language": "R",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-05-14T13:09:02Z",
+                    "last_commit": "2026-09-10T16:35:30Z",
                     "open_issues": 4,
                     "owner": "zackbatist",
                     "repo": "open-archaeo",
@@ -336,7 +336,7 @@
                     "open_issues": 67,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5516,
+                    "stars": 5515,
                     "topics": [
                       "awesome",
                       "geo",
@@ -366,7 +366,7 @@
                     "open_issues": 2,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5279,
+                    "stars": 5280,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -507,7 +507,7 @@
                     "open_issues": 12,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1835,
+                    "stars": 1837,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T16:49:52.121Z",
+    "last_updated": "2026-09-10T16:36:06.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
