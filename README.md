@@ -469,7 +469,7 @@
 
 ### Applications
 
-* [Map Warper](https://github.com/timwaters/mapwarper) ⭐ 218 | 🐛 111 | 🌐 Ruby | 📅 2026-07-31 - Open source map geo-rectification, warping and georeferencing application.
+* [Map Warper](https://github.com/timwaters/mapwarper) ⭐ 219 | 🐛 111 | 🌐 Ruby | 📅 2026-07-31 - Open source map geo-rectification, warping and georeferencing application.
 * [MapReader](https://github.com/Living-with-machines/MapReader) ⭐ 149 | 🐛 86 | 🌐 Python | 📅 2026-09-11 - End-to-end computer vision pipeline for exploring and analyzing images at scale, developed to analyze large collections of historical maps.
 * [HiRoNEx](https://github.com/johannesuhl/hironex) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2022-07-29 - Python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
 * [desCartes](https://github.com/docuracy/desCartes) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-13 - Recognises roads on old maps and converts them to vector lines for GIS applications and historical transport network analysis.
@@ -523,7 +523,7 @@
 #### Geospatial
 
 * [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,519 | 🐛 68 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
-* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,280 | 🐛 0 | 📅 2026-09-11 - Long list of geospatial tools and resources.
+* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,281 | 🐛 0 | 📅 2026-09-11 - Long list of geospatial tools and resources.
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets#readme) ⚠️ Archived - Satellite imagery datasets with annotations for computer vision and deep learning.
 * [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,626 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
 * [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,538 | 🐛 0 | 📅 2026-09-01 - GeoJSON utilities that will make your life easier.
@@ -555,4 +555,4 @@ This list includes resources from various institutions worldwide dedicated to hi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
