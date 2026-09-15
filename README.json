@@ -336,7 +336,7 @@
                     "open_issues": 68,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5522,
+                    "stars": 5525,
                     "topics": [
                       "awesome",
                       "geo",
@@ -366,7 +366,7 @@
                     "open_issues": 0,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5287,
+                    "stars": 5289,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -480,7 +480,7 @@
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2331,
+                    "stars": 2332,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -504,7 +504,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-05-26T11:55:08Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
                     "stars": 1843,
@@ -579,7 +579,7 @@
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1243,
+                    "stars": 1244,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:08:30.442Z",
+    "last_updated": "2026-09-15T17:12:37.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
