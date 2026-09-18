@@ -278,7 +278,7 @@
                     "language": "SCSS",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-09T12:46:41Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
                     "stars": 412,
@@ -333,10 +333,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 71,
+                    "open_issues": 72,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5527,
+                    "stars": 5528,
                     "topics": [
                       "awesome",
                       "geo",
@@ -433,7 +433,7 @@
                     "open_issues": 3,
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
-                    "stars": 2630,
+                    "stars": 2631,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:12:23.062Z",
+    "last_updated": "2026-09-18T16:38:24.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",

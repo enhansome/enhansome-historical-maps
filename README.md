@@ -517,15 +517,15 @@
 
 #### Digital Humanities
 
-* [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) ⭐ 412 | 🐛 4 | 🌐 SCSS | 📅 2026-09-09 - Software for humanities scholars using quantitative or computational methods.
+* [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) ⭐ 412 | 🐛 5 | 🌐 SCSS | 📅 2026-09-09 - Software for humanities scholars using quantitative or computational methods.
 * [Open Archaeo](https://github.com/zackbatist/open-archaeo) ⭐ 140 | 🐛 4 | 🌐 R | 📅 2026-09-10 -  A list of open source archaeological software and resources.
 
 #### Geospatial
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,527 | 🐛 71 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
+* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,528 | 🐛 72 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
 * [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,291 | 🐛 2 | 📅 2026-09-16 - Long list of geospatial tools and resources.
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets#readme) ⚠️ Archived - Satellite imagery datasets with annotations for computer vision and deep learning.
-* [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,630 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
+* [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,631 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
 * [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,540 | 🐛 0 | 📅 2026-09-01 - GeoJSON utilities that will make your life easier.
 * [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection#readme) ⭐ 2,333 | 🐛 2 | 📅 2026-09-09 - Datasets, codes, researchers and contests related to remote sensing change detection.
 * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience#readme) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26 - Curated from repositories that make geoscientists' lives easier or more awesome.
@@ -555,4 +555,4 @@ This list includes resources from various institutions worldwide dedicated to hi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
