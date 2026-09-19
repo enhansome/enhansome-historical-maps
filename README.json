@@ -336,7 +336,7 @@
                     "open_issues": 72,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5528,
+                    "stars": 5527,
                     "topics": [
                       "awesome",
                       "geo",
@@ -362,11 +362,11 @@
                     "id": 58225794,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-16T12:38:49Z",
+                    "last_commit": "2026-09-19T08:56:20Z",
                     "open_issues": 2,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5291,
+                    "stars": 5292,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -480,7 +480,7 @@
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2333,
+                    "stars": 2335,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -612,7 +612,7 @@
                     "open_issues": 5,
                     "owner": "chrieke",
                     "repo": "awesome-geospatial-companies",
-                    "stars": 890,
+                    "stars": 891,
                     "topics": [
                       "companies",
                       "earth-observation",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:38:24.746Z",
+    "last_updated": "2026-09-19T15:59:59.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
@@ -713,7 +713,7 @@
       "open_issues": 0,
       "owner": "stark1tty",
       "repo": "awesome-historical-maps",
-      "stars": 110,
+      "stars": 111,
       "topics": [
         "archaeology",
         "awesome",
