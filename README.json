@@ -336,7 +336,7 @@
                     "open_issues": 74,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5532,
+                    "stars": 5533,
                     "topics": [
                       "awesome",
                       "geo",
@@ -362,11 +362,11 @@
                     "id": 58225794,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-19T08:56:20Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-22T08:28:16Z",
+                    "open_issues": 2,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5293,
+                    "stars": 5294,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -454,7 +454,7 @@
                     "open_issues": 1,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2541,
+                    "stars": 2542,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -480,7 +480,7 @@
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2340,
+                    "stars": 2341,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -507,7 +507,7 @@
                     "open_issues": 13,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1845,
+                    "stars": 1846,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:17:06.281Z",
+    "last_updated": "2026-09-22T17:10:24.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
