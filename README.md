@@ -518,12 +518,12 @@
 #### Digital Humanities
 
 * [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) ⭐ 413 | 🐛 5 | 🌐 SCSS | 📅 2026-09-09 - Software for humanities scholars using quantitative or computational methods.
-* [Open Archaeo](https://github.com/zackbatist/open-archaeo) ⭐ 142 | 🐛 4 | 🌐 R | 📅 2026-09-10 -  A list of open source archaeological software and resources.
+* [Open Archaeo](https://github.com/zackbatist/open-archaeo) ⭐ 143 | 🐛 4 | 🌐 R | 📅 2026-09-10 -  A list of open source archaeological software and resources.
 
 #### Geospatial
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,539 | 🐛 79 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
-* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,298 | 🐛 4 | 📅 2026-09-23 - Long list of geospatial tools and resources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,541 | 🐛 81 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
+* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,299 | 🐛 5 | 📅 2026-09-23 - Long list of geospatial tools and resources.
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets#readme) ⚠️ Archived - Satellite imagery datasets with annotations for computer vision and deep learning.
 * [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,632 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
 * [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,545 | 🐛 1 | 📅 2026-09-23 - GeoJSON utilities that will make your life easier.
@@ -555,4 +555,4 @@ This list includes resources from various institutions worldwide dedicated to hi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
