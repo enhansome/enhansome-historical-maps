@@ -522,17 +522,17 @@
 
 #### Geospatial
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,548 | 🐛 88 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
+* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,549 | 🐛 88 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
 * [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,308 | 🐛 5 | 📅 2026-09-29 - Long list of geospatial tools and resources.
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets#readme) ⚠️ Archived - Satellite imagery datasets with annotations for computer vision and deep learning.
 * [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,633 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
 * [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,545 | 🐛 1 | 📅 2026-09-23 - GeoJSON utilities that will make your life easier.
 * [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection#readme) ⭐ 2,344 | 🐛 2 | 📅 2026-09-09 - Datasets, codes, researchers and contests related to remote sensing change detection.
-* [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience#readme) ⭐ 1,847 | 🐛 14 | 📅 2026-05-26 - Curated from repositories that make geoscientists' lives easier or more awesome.
-* [Awesome Earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code#readme) ⭐ 1,384 | 🐛 9 | 🌐 HTML | 📅 2026-05-13 - Tools, tutorials, code, helpful projects, links about Earth Observation and geospatial.
-* [Awesome GEE](https://github.com/giswqs/Awesome-GEE#readme) ⭐ 1,244 | 🐛 0 | 📅 2026-08-31 - Google Earth Engine resources.
+* [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience#readme) ⭐ 1,848 | 🐛 14 | 📅 2026-05-26 - Curated from repositories that make geoscientists' lives easier or more awesome.
+* [Awesome Earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code#readme) ⭐ 1,383 | 🐛 9 | 🌐 HTML | 📅 2026-05-13 - Tools, tutorials, code, helpful projects, links about Earth Observation and geospatial.
+* [Awesome GEE](https://github.com/giswqs/Awesome-GEE#readme) ⭐ 1,245 | 🐛 0 | 📅 2026-08-31 - Google Earth Engine resources.
 * [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies#readme) ⭐ 893 | 🐛 5 | 🌐 Python | 📅 2026-07-09 - List of 500+ geospatial companies.
-* [Awesome QGIS](https://github.com/totpero/awesome-qgis#readme) ⭐ 33 | 🐛 0 | 📅 2026-09-27 - All things QGIS, the FOSS GIS program.
+* [Awesome QGIS](https://github.com/totpero/awesome-qgis#readme) ⭐ 34 | 🐛 0 | 📅 2026-09-27 - All things QGIS, the FOSS GIS program.
 * [Awesome ArcGIS](https://github.com/esri-es/awesome-arcgis/#readme) ⭐ 30 | 🐛 0 | 🌐 HTML | 📅 2021-01-05 - Resource list/wiki for ArcGIS users and developers.
 
 ## Contribute
@@ -555,4 +555,4 @@ This list includes resources from various institutions worldwide dedicated to hi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

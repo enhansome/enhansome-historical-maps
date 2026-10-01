@@ -336,7 +336,7 @@
                     "open_issues": 88,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5548,
+                    "stars": 5549,
                     "topics": [
                       "awesome",
                       "geo",
@@ -507,7 +507,7 @@
                     "open_issues": 14,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1847,
+                    "stars": 1848,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -549,7 +549,7 @@
                     "open_issues": 9,
                     "owner": "acgeospatial",
                     "repo": "awesome-earthobservation-code",
-                    "stars": 1384,
+                    "stars": 1383,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -579,7 +579,7 @@
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1244,
+                    "stars": 1245,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -644,7 +644,7 @@
                     "open_issues": 0,
                     "owner": "totpero",
                     "repo": "awesome-qgis",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:04:22.642Z",
+    "last_updated": "2026-10-01T18:31:59.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
