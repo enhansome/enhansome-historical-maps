@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "kaorahi",
                 "repo": "patched-historical-atlas",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "historical-maps",
                   "world-history"
@@ -333,7 +333,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 87,
+                    "open_issues": 88,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
                     "stars": 5549,
@@ -363,10 +363,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-29T15:02:37Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5308,
+                    "stars": 5309,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -612,7 +612,7 @@
                     "open_issues": 5,
                     "owner": "chrieke",
                     "repo": "awesome-geospatial-companies",
-                    "stars": 892,
+                    "stars": 891,
                     "topics": [
                       "companies",
                       "earth-observation",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:58:33.283Z",
+    "last_updated": "2026-10-03T04:50:21.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
@@ -713,7 +713,7 @@
       "open_issues": 0,
       "owner": "stark1tty",
       "repo": "awesome-historical-maps",
-      "stars": 114,
+      "stars": 115,
       "topics": [
         "archaeology",
         "awesome",
