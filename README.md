@@ -522,8 +522,8 @@
 
 #### Geospatial
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,549 | 🐛 88 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
-* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,309 | 🐛 6 | 📅 2026-09-29 - Long list of geospatial tools and resources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) ⭐ 5,548 | 🐛 88 | 📅 2026-07-21 - All things Geographic Information Systems (GIS).
+* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) ⭐ 5,309 | 🐛 7 | 📅 2026-09-29 - Long list of geospatial tools and resources.
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets#readme) ⚠️ Archived - Satellite imagery datasets with annotations for computer vision and deep learning.
 * [Awesome Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#readme) ⭐ 2,634 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification.
 * [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,545 | 🐛 1 | 📅 2026-09-23 - GeoJSON utilities that will make your life easier.
@@ -555,4 +555,4 @@ This list includes resources from various institutions worldwide dedicated to hi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
