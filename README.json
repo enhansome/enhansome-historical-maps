@@ -333,7 +333,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 91,
+                    "open_issues": 92,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
                     "stars": 5553,
@@ -366,7 +366,7 @@
                     "open_issues": 8,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5311,
+                    "stars": 5310,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -579,7 +579,7 @@
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1245,
+                    "stars": 1246,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:33.660Z",
+    "last_updated": "2026-10-06T18:32:43.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
