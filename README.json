@@ -277,11 +277,11 @@
                     "id": 99738996,
                     "language": "SCSS",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-09T12:46:41Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-17T11:28:30Z",
+                    "open_issues": 12,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 422,
+                    "stars": 423,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -333,10 +333,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 104,
+                    "open_issues": 105,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5574,
+                    "stars": 5573,
                     "topics": [
                       "awesome",
                       "geo",
@@ -366,7 +366,7 @@
                     "open_issues": 22,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5328,
+                    "stars": 5329,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -403,7 +403,7 @@
                     "open_issues": 0,
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3919,
+                    "stars": 3920,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -477,10 +477,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-09-09T08:17:49Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2360,
+                    "stars": 2361,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -579,7 +579,7 @@
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1247,
+                    "stars": 1251,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:52:03.408Z",
+    "last_updated": "2026-10-17T15:49:32.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
