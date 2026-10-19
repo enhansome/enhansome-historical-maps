@@ -113,7 +113,7 @@
                 "open_issues": 112,
                 "owner": "timwaters",
                 "repo": "mapwarper",
-                "stars": 221,
+                "stars": 222,
                 "topics": [
                   "georectification",
                   "georeferencing",
@@ -145,7 +145,7 @@
                 "open_issues": 85,
                 "owner": "maps-as-data",
                 "repo": "MapReader",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "article",
                   "computer-vision",
@@ -278,7 +278,7 @@
                     "language": "SCSS",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-17T11:28:30Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
                     "stars": 423,
@@ -305,10 +305,10 @@
                     "language": "R",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-10T16:35:30Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "zackbatist",
                     "repo": "open-archaeo",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
@@ -333,10 +333,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 105,
+                    "open_issues": 107,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5575,
+                    "stars": 5576,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,10 +363,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-17T18:27:05Z",
-                    "open_issues": 8,
+                    "open_issues": 10,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5330,
+                    "stars": 5331,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -507,7 +507,7 @@
                     "open_issues": 14,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1856,
+                    "stars": 1858,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -612,7 +612,7 @@
                     "open_issues": 6,
                     "owner": "chrieke",
                     "repo": "awesome-geospatial-companies",
-                    "stars": 892,
+                    "stars": 893,
                     "topics": [
                       "companies",
                       "earth-observation",
@@ -644,7 +644,7 @@
                     "open_issues": 0,
                     "owner": "totpero",
                     "repo": "awesome-qgis",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:03:59.220Z",
+    "last_updated": "2026-10-19T18:48:07.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
