@@ -145,7 +145,7 @@
                 "open_issues": 85,
                 "owner": "maps-as-data",
                 "repo": "MapReader",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "article",
                   "computer-vision",
@@ -177,7 +177,7 @@
                 "open_issues": 0,
                 "owner": "johannesuhl",
                 "repo": "hironex",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "clustering",
                   "geographic-data",
@@ -336,7 +336,7 @@
                     "open_issues": 114,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5592,
+                    "stars": 5594,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,10 +363,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-17T18:27:05Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5341,
+                    "stars": 5345,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -454,7 +454,7 @@
                     "open_issues": 1,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2553,
+                    "stars": 2552,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T16:09:58.276Z",
+    "last_updated": "2026-10-25T16:41:54.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
