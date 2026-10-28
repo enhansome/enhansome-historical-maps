@@ -336,7 +336,7 @@
                     "open_issues": 118,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5597,
+                    "stars": 5600,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,10 +363,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-17T18:27:05Z",
-                    "open_issues": 27,
+                    "open_issues": 30,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5348,
+                    "stars": 5350,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -450,8 +450,8 @@
                     "id": 36456042,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-23T17:14:52Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-28T15:14:38Z",
+                    "open_issues": 0,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
                     "stars": 2553,
@@ -480,7 +480,7 @@
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2365,
+                    "stars": 2364,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -546,7 +546,7 @@
                     "language": "HTML",
                     "license": "CC0-1.0",
                     "last_commit": "2026-05-13T19:36:13Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "acgeospatial",
                     "repo": "awesome-earthobservation-code",
                     "stars": 1389,
@@ -579,7 +579,7 @@
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1255,
+                    "stars": 1256,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:09:54.525Z",
+    "last_updated": "2026-10-28T18:26:26.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
