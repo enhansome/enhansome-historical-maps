@@ -281,7 +281,7 @@
                     "open_issues": 16,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -336,7 +336,7 @@
                     "open_issues": 118,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5600,
+                    "stars": 5603,
                     "topics": [
                       "awesome",
                       "geo",
@@ -362,11 +362,11 @@
                     "id": 58225794,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-17T18:27:05Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-10-29T09:26:02Z",
+                    "open_issues": 29,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5350,
+                    "stars": 5351,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -480,7 +480,7 @@
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2364,
+                    "stars": 2365,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:26:26.183Z",
+    "last_updated": "2026-10-29T18:36:21.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
