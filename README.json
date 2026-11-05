@@ -278,7 +278,7 @@
                     "language": "SCSS",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-17T11:28:30Z",
-                    "open_issues": 22,
+                    "open_issues": 23,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
                     "stars": 428,
@@ -362,11 +362,11 @@
                     "id": 58225794,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-02T12:56:53Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-11-05T18:58:37Z",
+                    "open_issues": 12,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5364,
+                    "stars": 5365,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -504,10 +504,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-05-26T11:55:08Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1873,
+                    "stars": 1874,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -579,7 +579,7 @@
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1258,
+                    "stars": 1259,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:57:55.950Z",
+    "last_updated": "2026-11-05T20:12:07.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
