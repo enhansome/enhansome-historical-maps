@@ -145,7 +145,7 @@
                 "open_issues": 87,
                 "owner": "maps-as-data",
                 "repo": "MapReader",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "article",
                   "computer-vision",
@@ -363,7 +363,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-05T18:58:37Z",
-                    "open_issues": 16,
+                    "open_issues": 18,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
                     "stars": 5365,
@@ -403,7 +403,7 @@
                     "open_issues": 0,
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3920,
+                    "stars": 3922,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -433,7 +433,7 @@
                     "open_issues": 0,
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
-                    "stars": 2635,
+                    "stars": 2634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
@@ -507,7 +507,7 @@
                     "open_issues": 16,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1876,
+                    "stars": 1877,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:37:57.006Z",
+    "last_updated": "2026-11-07T17:49:29.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
