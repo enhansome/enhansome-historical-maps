@@ -141,7 +141,7 @@
                 "id": 430661738,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T09:58:17Z",
+                "last_commit": "2026-11-11T10:20:18Z",
                 "open_issues": 87,
                 "owner": "maps-as-data",
                 "repo": "MapReader",
@@ -277,8 +277,8 @@
                     "id": 99738996,
                     "language": "SCSS",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-17T11:28:30Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-11-11T08:51:48Z",
+                    "open_issues": 8,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
                     "stars": 429,
@@ -336,7 +336,7 @@
                     "open_issues": 135,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5620,
+                    "stars": 5621,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,10 +363,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-08T09:40:23Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5373,
+                    "stars": 5371,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -403,7 +403,7 @@
                     "open_issues": 0,
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3921,
+                    "stars": 3922,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -433,7 +433,7 @@
                     "open_issues": 0,
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
-                    "stars": 2634,
+                    "stars": 2635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
@@ -480,7 +480,7 @@
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2372,
+                    "stars": 2371,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -507,7 +507,7 @@
                     "open_issues": 18,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1880,
+                    "stars": 1883,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -644,7 +644,7 @@
                     "open_issues": 0,
                     "owner": "totpero",
                     "repo": "awesome-qgis",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T19:55:14.805Z",
+    "last_updated": "2026-11-11T19:48:02.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
