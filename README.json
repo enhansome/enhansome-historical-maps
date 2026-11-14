@@ -308,7 +308,7 @@
                     "open_issues": 5,
                     "owner": "zackbatist",
                     "repo": "open-archaeo",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
@@ -333,10 +333,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 136,
+                    "open_issues": 137,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5624,
+                    "stars": 5625,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,7 +363,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-08T09:40:23Z",
-                    "open_issues": 28,
+                    "open_issues": 29,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
                     "stars": 5374,
@@ -403,7 +403,7 @@
                     "open_issues": 0,
                     "owner": "chrieke",
                     "repo": "awesome-satellite-imagery-datasets",
-                    "stars": 3921,
+                    "stars": 3922,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -429,7 +429,7 @@
                     "id": 41861984,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-06T04:23:28Z",
+                    "last_commit": "2026-11-14T17:44:17Z",
                     "open_issues": 0,
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
@@ -575,11 +575,11 @@
                     "id": 272061573,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-26T00:43:09Z",
+                    "last_commit": "2026-11-14T01:48:09Z",
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1259,
+                    "stars": 1258,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T19:56:49.715Z",
+    "last_updated": "2026-11-14T18:24:31.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
