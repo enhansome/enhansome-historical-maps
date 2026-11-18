@@ -336,7 +336,7 @@
                     "open_issues": 140,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5628,
+                    "stars": 5632,
                     "topics": [
                       "awesome",
                       "geo",
@@ -362,11 +362,11 @@
                     "id": 58225794,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-08T09:40:23Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-11-18T20:03:15Z",
+                    "open_issues": 2,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5378,
+                    "stars": 5380,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -454,7 +454,7 @@
                     "open_issues": 1,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2556,
+                    "stars": 2558,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -503,11 +503,11 @@
                     "id": 107413465,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-05-26T11:55:08Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-11-18T06:19:27Z",
+                    "open_issues": 15,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1887,
+                    "stars": 1889,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:14:05.603Z",
+    "last_updated": "2026-11-18T20:48:50.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
