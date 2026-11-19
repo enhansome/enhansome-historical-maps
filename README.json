@@ -333,10 +333,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 140,
+                    "open_issues": 143,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5632,
+                    "stars": 5631,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,10 +363,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-18T20:03:15Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5380,
+                    "stars": 5378,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -433,7 +433,7 @@
                     "open_issues": 0,
                     "owner": "mapbox",
                     "repo": "awesome-vector-tiles",
-                    "stars": 2636,
+                    "stars": 2635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:32:27.568Z"
@@ -454,7 +454,7 @@
                     "open_issues": 1,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2558,
+                    "stars": 2557,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -504,10 +504,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-18T06:19:27Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
-                    "stars": 1889,
+                    "stars": 1888,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -579,7 +579,7 @@
                     "open_issues": 0,
                     "owner": "opengeos",
                     "repo": "Awesome-GEE",
-                    "stars": 1260,
+                    "stars": 1261,
                     "topics": [
                       "earth-engine",
                       "earthengine",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:48:50.761Z",
+    "last_updated": "2026-11-19T20:53:38.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
