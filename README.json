@@ -278,10 +278,10 @@
                     "language": "SCSS",
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-11T08:51:48Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "dh-tech",
                     "repo": "awesome-digital-humanities",
-                    "stars": 436,
+                    "stars": 437,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -333,10 +333,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-07-21T09:10:54Z",
-                    "open_issues": 146,
+                    "open_issues": 147,
                     "owner": "sshuair",
                     "repo": "awesome-gis",
-                    "stars": 5634,
+                    "stars": 5638,
                     "topics": [
                       "awesome",
                       "geo",
@@ -363,10 +363,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-18T20:03:15Z",
-                    "open_issues": 7,
+                    "open_issues": 10,
                     "owner": "sacridini",
                     "repo": "Awesome-Geospatial",
-                    "stars": 5382,
+                    "stars": 5386,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -454,7 +454,7 @@
                     "open_issues": 1,
                     "owner": "tmcw",
                     "repo": "awesome-geojson",
-                    "stars": 2557,
+                    "stars": 2558,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -480,7 +480,7 @@
                     "open_issues": 2,
                     "owner": "wenhwu",
                     "repo": "awesome-remote-sensing-change-detection",
-                    "stars": 2377,
+                    "stars": 2379,
                     "topics": [
                       "awesome",
                       "change-detection",
@@ -504,7 +504,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-18T06:19:27Z",
-                    "open_issues": 16,
+                    "open_issues": 15,
                     "owner": "softwareunderground",
                     "repo": "awesome-open-geoscience",
                     "stars": 1887,
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:39:30.160Z",
+    "last_updated": "2026-11-22T19:55:07.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.",
@@ -709,11 +709,11 @@
       "id": 588288282,
       "language": "HTML",
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-04-30T23:02:57Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-22T09:41:16Z",
+      "open_issues": 0,
       "owner": "stark1tty",
       "repo": "awesome-historical-maps",
-      "stars": 123,
+      "stars": 124,
       "topics": [
         "archaeology",
         "awesome",
@@ -737,7 +737,7 @@
         "spatial"
       ]
     },
-    "original_repository_sha": "cf42e092b10449bffa7ad4c25156464362d3b976",
+    "original_repository_sha": "c43b7317fe7a9a1d836108d5c350650cb16b19e2",
     "enhanced_repository": "enhansome/enhansome-historical-maps",
     "enhanced_repository_description": null,
     "title": "Awesome Historical Maps with stars"
